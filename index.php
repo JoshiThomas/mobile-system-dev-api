@@ -1,12 +1,14 @@
 <?php
 /*
+ * Author: Joshi Thomas
+ * Date: 1/10/2020
     Remarks :-
     Api Used By Mobile API
 */
 
-require_once('/var/www/html/selfcheckout/vendor/autoload.php');
-
-use Aws\Sqs\SqsClient;
+//require_once('/var/www/html/selfcheckout/vendor/autoload.php');
+//
+//use Aws\Sqs\SqsClient;
 
 require_once('functions.php');
 require_once('lib/Customer.php');
