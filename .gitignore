@@ -1,0 +1,6 @@
+.git/
+config/
+config/settings.inc.php
+vendor/
+config.ini
+.htaccess
