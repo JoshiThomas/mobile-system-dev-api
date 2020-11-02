@@ -7,8 +7,8 @@
 */
 
 //require_once('/var/www/html/selfcheckout/vendor/autoload.php');
-//
-//use Aws\Sqs\SqsClient;
+
+//use Aws\Ses\SesClient;
 
 require_once('functions.php');
 require_once('lib/Customer.php');
